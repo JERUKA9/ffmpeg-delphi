@@ -7,4 +7,6 @@ FFMpeg Header For Delphi
 <b>Ported by:</b>
 ```
  Oleksandr Nazaruk (email: mail@freehand.com.ua)
+ And
+ JERUKA9
 ```
