@@ -1,7 +1,7 @@
 # ffmpeg-delphi
 
 FFMpeg Header For Delphi
-* FFmpeg Lib Version - 2.8.6<br>
+* FFmpeg Lib Version - 4.2.2 <br>
 * Development environment - Delphi XE10<br>
 
 <b>Ported by:</b>
